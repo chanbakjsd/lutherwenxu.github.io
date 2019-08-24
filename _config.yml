@@ -1,0 +1,13 @@
+theme: jekyll-theme-primer
+title: chanbakjsd
+description: "Personal Wiki and Playground"
+
+markdown: CommonMarkGhPages
+commonmark:
+  options:
+    - FOOTNOTES
+    - SMART
+  extensions:
+    - autolink
+    - strikethrough
+    - table
