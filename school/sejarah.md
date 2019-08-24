@@ -1,4 +1,4 @@
-[Back to Index](/index.md)
+[Back to Index](../index.md)
 
 This is where all Sejarah notes are stored.
 

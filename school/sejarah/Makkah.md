@@ -2,8 +2,11 @@
 
 Makkah is a part of [Hijaz](Hijaz.md) and is about 80km away from Jeddah.
 
-Consists of Kaabah which is the cube that is holy to Islam now, and Zamzam Well which attracts travelling merchant to get there.
-Zamzam Well is currently located near Kaabah and Masjid al-Haram.
+## Notable Locations
+- Kaabah where [Hajar Aswad](Hajar Aswad.md) now resides
+- Masjid al-Haram
+- Zamzam Well which attracts travelling merchant to get there.
+- [Gua Hirak](Gua Hirak.md)
 
 ## Leaders
 A list of leaders that have been mentioned in the textbook:

@@ -1,7 +1,7 @@
 # Masyarakat Arab Jahiliah
 Masyarakat Arab Jahiliah refers to the society where Arab people are not that knowledgeable (according to Islam) as they did not listen to what the [other Nabis](Nabi.md) said and don't believe in Allah Yang Maha Esa.
 
-Time Period: 300AD ([Maarib Dam](Maarib Dam.md) Failing) - 610AD ([Nabi Muhammad](Nabi Muhammad.md) gets the first notice from Allah)
+Time Period: 300AD ([Maarib Dam](Maarib Dam.md) Failing) - 610AD ([Nabi Muhammad gets the first notice from Allah](Nabi Muhammad.md#prophetization))
 
 ## Phrase Origin
 Jahiliah:
